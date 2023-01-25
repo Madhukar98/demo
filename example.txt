@@ -1,0 +1,5 @@
+renaming example 
+
+git mv example.txt new_name.txt
+
+git commit
